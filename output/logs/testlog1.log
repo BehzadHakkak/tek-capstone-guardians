@@ -3364,3 +3364,241 @@
 2023-11-10 00:09:26,024 [main] INFO logger_file - SignIn button was clicked successfully
 2023-11-10 00:09:26,589 [main] INFO logger_file - User is logged in successfully
 2023-11-10 00:09:26,812 [main] INFO logger_file - Order link was clicked successfully
+2023-12-04 19:31:39,470 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:31:40,003 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:31:40,104 [main] INFO logger_file - Option Electronics is displayed
+2023-12-04 19:31:40,154 [main] INFO logger_file - Option Computers is displayed
+2023-12-04 19:31:40,196 [main] INFO logger_file - Option Smart Home is displayed
+2023-12-04 19:31:40,235 [main] INFO logger_file - Option Sports is displayed
+2023-12-04 19:31:40,268 [main] INFO logger_file - Option Automative is displayed
+2023-12-04 19:31:43,731 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:31:44,246 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:31:44,447 [main] INFO logger_file - User on Electronics
+2023-12-04 19:31:47,384 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:31:47,867 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:31:48,111 [main] INFO logger_file - User on Computers
+2023-12-04 19:31:51,190 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:31:51,485 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:31:51,634 [main] INFO logger_file - User on Smart Home
+2023-12-04 19:31:55,009 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:31:55,476 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:31:55,655 [main] INFO logger_file - User on Sports
+2023-12-04 19:31:58,512 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:31:59,003 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:31:59,192 [main] INFO logger_file - User on Automative
+2023-12-04 19:33:08,005 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:33:08,213 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:33:08,589 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:33:08,709 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:33:09,003 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:33:11,940 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:33:12,471 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:33:12,606 [main] INFO logger_file - newAccountBttn button was clicked successfully
+2023-12-04 19:33:13,211 [main] INFO logger_file - entered successfully
+2023-12-04 19:33:13,325 [main] INFO logger_file - SignUp button was clicked successfully
+2023-12-04 19:33:57,173 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:33:57,370 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:33:57,768 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:33:57,890 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:33:58,154 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:34:01,097 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:34:01,611 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:34:01,748 [main] INFO logger_file - newAccountBttn button was clicked successfully
+2023-12-04 19:34:02,356 [main] INFO logger_file - entered successfully
+2023-12-04 19:34:02,467 [main] INFO logger_file - SignUp button was clicked successfully
+2023-12-04 19:34:02,846 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:00,635 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:00,874 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:01,255 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:01,368 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:01,630 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:01,857 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:02,167 [main] INFO logger_file - Name was entered successfully
+2023-12-04 19:35:02,468 [main] INFO logger_file - Phone Number was entered successfully
+2023-12-04 19:35:25,550 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:25,942 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:26,289 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:26,384 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:26,655 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:26,877 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:27,042 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-12-04 19:35:27,801 [main] INFO logger_file - Payment Information was entered successfully
+2023-12-04 19:35:27,942 [main] INFO logger_file - Payment Method Submit bttn clicked successfully
+2023-12-04 19:35:28,684 [main] INFO logger_file - Expected Message: Payment Method added sucessfully
+2023-12-04 19:35:32,144 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:32,543 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:32,898 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:32,998 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:33,289 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:33,521 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:33,697 [main] INFO logger_file - click on link was clicked successfully
+2023-12-04 19:35:33,848 [main] INFO logger_file - Edit option of card section was clicked successfully
+2023-12-04 19:35:34,775 [main] INFO logger_file - Payment information was updated successfully
+2023-12-04 19:35:34,864 [main] INFO logger_file - Update card button clicked successfully
+2023-12-04 19:35:35,622 [main] INFO logger_file - Expected Message: Payment Method updated Successfully
+2023-12-04 19:35:38,474 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:38,985 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:39,307 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:39,406 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:39,677 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:39,889 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:40,088 [main] INFO logger_file - Remove card button clicked successfully
+2023-12-04 19:35:40,205 [main] INFO logger_file - Remove card button clicked successfully
+2023-12-04 19:35:40,238 [main] INFO logger_file - Payment details removed successfully
+2023-12-04 19:35:43,528 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:43,950 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:44,263 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:44,348 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:44,624 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:44,834 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:45,083 [main] INFO logger_file - Add Address Link was clicked successfully
+2023-12-04 19:35:46,957 [main] INFO logger_file - Address form was filled out successfully
+2023-12-04 19:35:47,104 [main] INFO logger_file - Add Address Button was clicked successfully
+2023-12-04 19:35:47,811 [main] INFO logger_file - Expected Message: Address Added Successfully
+2023-12-04 19:35:51,224 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:51,690 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:52,040 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:52,139 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:52,460 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:52,702 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:52,887 [main] INFO logger_file - Edit address link clicked successfully
+2023-12-04 19:35:54,212 [main] INFO logger_file - Address form was filled out successfully
+2023-12-04 19:35:54,327 [main] INFO logger_file - Update address button clicked successfully
+2023-12-04 19:35:58,114 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:35:58,736 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:35:59,103 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:35:59,196 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:35:59,524 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:35:59,736 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:35:59,947 [main] INFO logger_file - Remove address button clicked successfully
+2023-12-04 19:35:59,991 [main] INFO logger_file - Address details is removed successfully
+2023-12-04 19:36:36,669 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:36:37,144 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:36:37,498 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:36:37,615 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:36:37,898 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:36:38,110 [main] INFO logger_file - Category was selected successfully from dropdown
+2023-12-04 19:36:38,259 [main] INFO logger_file - Item name was entered successfully
+2023-12-04 19:36:38,371 [main] INFO logger_file - Search button was clicked successfully
+2023-12-04 19:36:38,620 [main] INFO logger_file - item was clicked successfully
+2023-12-04 19:36:38,861 [main] INFO logger_file - item quantity was selected succcessfully
+2023-12-04 19:36:39,012 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-12-04 19:36:42,431 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:36:43,024 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:36:43,459 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:36:43,574 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:36:43,837 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:36:44,036 [main] INFO logger_file - Category changed to electronics successfully
+2023-12-04 19:36:44,170 [main] INFO logger_file - Item name was entered successfully
+2023-12-04 19:36:44,272 [main] INFO logger_file - Search button was clicked successfully
+2023-12-04 19:36:44,505 [main] INFO logger_file - Item Apex Legends was clicked successfully
+2023-12-04 19:36:44,740 [main] INFO logger_file - Apex Legends qty was changed successfully
+2023-12-04 19:36:44,905 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-12-04 19:36:51,121 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:36:51,593 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:36:51,914 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:36:52,019 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:36:52,302 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:36:52,501 [main] INFO logger_file - Order link was clicked successfully
+2023-12-04 19:37:15,798 [main] INFO logger_file - First order in the list of clicked
+2023-12-04 19:37:18,826 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:37:19,330 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:37:19,673 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:37:19,780 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:37:20,068 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:37:20,265 [main] INFO logger_file - Order link was clicked successfully
+2023-12-04 19:37:25,933 [main] INFO logger_file - First order in the list of clicked
+2023-12-04 19:37:28,530 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:37:28,923 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:37:29,403 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:37:29,498 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:37:29,891 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:37:30,053 [main] INFO logger_file - Order link was clicked successfully
+2023-12-04 19:39:04,905 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:39:05,416 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:39:05,767 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:39:05,872 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:39:06,183 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:39:06,412 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:39:06,713 [main] INFO logger_file - Name was entered successfully
+2023-12-04 19:39:06,974 [main] INFO logger_file - Phone Number was entered successfully
+2023-12-04 19:39:07,099 [main] INFO logger_file - Update button was clicked successfully
+2023-12-04 19:39:07,928 [main] INFO logger_file - Account information was updated successfully
+2023-12-04 19:39:11,680 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:39:12,182 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:39:12,565 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:39:12,693 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:39:12,947 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:39:13,210 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:39:13,361 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-12-04 19:39:14,057 [main] INFO logger_file - Payment Information was entered successfully
+2023-12-04 19:39:14,175 [main] INFO logger_file - Payment Method Submit bttn clicked successfully
+2023-12-04 19:39:37,211 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:39:37,789 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:39:38,149 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:39:38,254 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:39:38,540 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:39:38,799 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:39:38,971 [main] INFO logger_file - click on link was clicked successfully
+2023-12-04 19:39:39,106 [main] INFO logger_file - Edit option of card section was clicked successfully
+2023-12-04 19:39:40,091 [main] INFO logger_file - Payment information was updated successfully
+2023-12-04 19:39:40,188 [main] INFO logger_file - Update card button clicked successfully
+2023-12-04 19:39:41,062 [main] INFO logger_file - Expected Message: Payment Method updated Successfully
+2023-12-04 19:39:44,581 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:39:44,738 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:39:45,136 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:39:45,236 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:39:45,645 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:39:45,827 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:39:46,019 [main] INFO logger_file - Remove card button clicked successfully
+2023-12-04 19:39:46,168 [main] INFO logger_file - Remove card button clicked successfully
+2023-12-04 19:39:46,211 [main] INFO logger_file - Payment details removed successfully
+2023-12-04 19:39:49,298 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:39:49,693 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:39:50,029 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:39:50,132 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:39:50,554 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:39:50,767 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:39:50,959 [main] INFO logger_file - Add Address Link was clicked successfully
+2023-12-04 19:39:52,787 [main] INFO logger_file - Address form was filled out successfully
+2023-12-04 19:39:52,935 [main] INFO logger_file - Add Address Button was clicked successfully
+2023-12-04 19:39:53,913 [main] INFO logger_file - Expected Message: Address Added Successfully
+2023-12-04 19:39:57,216 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:39:57,596 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:39:57,942 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:39:58,042 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:39:58,284 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:39:58,500 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:39:58,745 [main] INFO logger_file - Edit address link clicked successfully
+2023-12-04 19:40:00,132 [main] INFO logger_file - Address form was filled out successfully
+2023-12-04 19:40:00,222 [main] INFO logger_file - Update address button clicked successfully
+2023-12-04 19:40:03,097 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:40:03,644 [main] INFO logger_file - clicked on the sign in link successfully
+2023-12-04 19:40:04,063 [main] INFO logger_file - Email and Password were entered successfully
+2023-12-04 19:40:04,177 [main] INFO logger_file - SignIn button was clicked successfully
+2023-12-04 19:40:04,428 [main] INFO logger_file - User is logged in successfully
+2023-12-04 19:40:04,631 [main] INFO logger_file - Account link was clicked successfully
+2023-12-04 19:40:04,773 [main] INFO logger_file - Remove address button clicked successfully
+2023-12-04 19:40:04,791 [main] INFO logger_file - Address details is removed successfully
+2023-12-04 19:57:36,484 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:57:36,622 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:57:36,676 [main] INFO logger_file - Option Electronics is displayed
+2023-12-04 19:57:36,708 [main] INFO logger_file - Option Computers is displayed
+2023-12-04 19:57:36,739 [main] INFO logger_file - Option Smart Home is displayed
+2023-12-04 19:57:36,769 [main] INFO logger_file - Option Sports is displayed
+2023-12-04 19:57:36,797 [main] INFO logger_file - Option Automative is displayed
+2023-12-04 19:57:40,239 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:57:40,656 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:57:40,834 [main] INFO logger_file - User on Electronics
+2023-12-04 19:57:44,284 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:57:44,639 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:57:44,769 [main] INFO logger_file - User on Computers
+2023-12-04 19:57:48,274 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:57:48,759 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:57:48,928 [main] INFO logger_file - User on Smart Home
+2023-12-04 19:57:51,759 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:57:52,263 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:57:52,431 [main] INFO logger_file - User on Sports
+2023-12-04 19:57:55,406 [main] INFO logger_file - TEKSCHOOL logo is displayed
+2023-12-04 19:57:55,892 [main] INFO logger_file - clicked on the ALL BTN successfully
+2023-12-04 19:57:56,080 [main] INFO logger_file - User on Automative

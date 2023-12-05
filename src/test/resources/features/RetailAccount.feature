@@ -11,7 +11,7 @@ Background:
  @krim
 Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'SalkimahGul' and Phone '4819543221'
+    And User update Name 'SalkimahGull' and Phone '4829543221'
     And User click on Update button
     Then user profile information should be updated
     
